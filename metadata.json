@@ -1,0 +1,5 @@
+{
+  "name": "Lipstick Shade Finder",
+  "description": "An application that allows users to upload an image, pick a color from it, and find real lipstick products that match the selected shade using the Gemini API.",
+  "requestFramePermissions": []
+}
